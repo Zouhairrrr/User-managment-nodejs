@@ -6,7 +6,7 @@ async function getDepartement(req, res) {
     res.send( JSON.stringify(Departements))
 }
 
-// insert Departement in database
+//* insert Departement in database
 async function InsertDepartement(req, res) {
     // console.log('azert' + req.body);
     const { Dpname, description} = req.body
