@@ -16,7 +16,7 @@
     "express": "^4.17.2",
     "mysql2": "^2.3.3",
     "node": "^17.3.0",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "sequelize": "^6.12.5",
     "sequelize-cli": "^6.3.0",
     "uuid": "^8.3.2"
